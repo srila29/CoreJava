@@ -2,7 +2,7 @@ package test;
 
 public class arrayExample {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		// TODO Auto-generated method stub
 int[] num1= {20,30,40,60};
 System.out.println("The total number of values in num1 are "+num1.length);
